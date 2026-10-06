@@ -1,0 +1,266 @@
+[
+ {
+  "category": "GPS Handheld",
+  "items": [
+   {
+    "cons": [
+     "Layar monokrom kecil 2,2 inci",
+     "Tanpa peta TopoActive berwarna",
+     "Fitur paling dasar"
+    ],
+    "name": "Garmin eTrex SE",
+    "price": "Rp 2.850.000",
+    "pros": [
+     "Termurah di kelasnya",
+     "Baterai paling awet (168 jam, 1.800 jam Expedition)",
+     "Multi-GNSS, kompas digital",
+     "Ringan dan simpel"
+    ]
+   },
+   {
+    "cons": [
+     "Baterai hanya 16 jam",
+     "Layar kecil 2,6 inci non-sentuh"
+    ],
+    "name": "Garmin GPSMAP 65s",
+    "price": "Rp 7.100.000",
+    "pros": [
+     "Multi-band GNSS (akurat di hutan/lembah)",
+     "Peta TopoActive Asia Tenggara",
+     "Sensor ABC lengkap"
+    ]
+   },
+   {
+    "cons": [
+     "Tanpa komunikasi satelit",
+     "Layar 3 inci (kecil untuk navigasi kendaraan)"
+    ],
+    "name": "Garmin GPSMAP 67",
+    "price": "Rp 9.000.000",
+    "pros": [
+     "Multi-band + multi-GNSS",
+     "Layar sunlight-readable",
+     "Baterai 180 jam",
+     "MIL-STD-810, IPX7",
+     "Peta multi-benua"
+    ]
+   }
+  ],
+  "rekomendasi": {
+   "hiking_santai": "eTrex SE — murah, baterai awet, cukup untuk navigasi jalur.",
+   "kehutanan_sar": "GPSMAP 67 — multi-band akurat di kanopi hutan, tangguh.",
+   "survey_lapangan": "GPSMAP 67 atau H1 (jika butuh komunikasi satelit)."
+  },
+  "title": "GPS Handheld Garmin: eTrex SE vs GPSMAP 65s vs GPSMAP 67"
+ },
+ {
+  "category": "GPS Handheld",
+  "items": [
+   {
+    "cons": [
+     "Tanpa kamera & inReach (ada di 760i)",
+     "Harga lebih tinggi dari GPSMAP 67"
+    ],
+    "name": "Garmin Montana 710",
+    "price": "Rp 12.000.000",
+    "pros": [
+     "Layar sentuh 5 inci lega",
+     "Cocok untuk off-road/kapal/motor",
+     "Memori 32 GB"
+    ]
+   },
+   {
+    "cons": [
+     "Paling mahal di lini handheld",
+     "Baterai 24 jam (lebih boros karena layar besar)"
+    ],
+    "name": "Garmin Montana 760i",
+    "price": "Rp 17.000.000",
+    "pros": [
+     "Semua kelebihan Montana 710",
+     "Kamera 8 MP",
+     "inReach: pesan 2-arah + SOS via satelit"
+    ]
+   }
+  ],
+  "rekomendasi": {
+   "ekspedisi_remote": "Montana 760i — inReach bisa menyelamatkan nyawa di area tanpa sinyal.",
+   "offroad_kapal": "Montana 710 — layar besar nyaman untuk navigasi kendaraan."
+  },
+  "title": "Garmin Montana 710 vs 760i"
+ },
+ {
+  "category": "GPS Handheld",
+  "items": [
+   {
+    "cons": [
+     "Tanpa foto/pesan suara via satelit"
+    ],
+    "name": "Garmin GPSMAP H1",
+    "price": "Rp 12.000.000",
+    "pros": [
+     "Navigasi multi-GNSS multi-band",
+     "inReach: teks, SOS, cuaca via satelit",
+     "Baterai 145 jam"
+    ]
+   },
+   {
+    "cons": [
+     "Termahal di seri H"
+    ],
+    "name": "Garmin GPSMAP H1i Plus",
+    "price": "Rp 17.000.000",
+    "pros": [
+     "Semua kelebihan H1",
+     "Kirim foto & pesan suara via satelit",
+     "SOS interaktif"
+    ]
+   }
+  ],
+  "rekomendasi": {
+   "pekerja_remote": "H1 — komunikasi satelit esensial dengan harga lebih rasional.",
+   "tim_eksplorasi": "H1i Plus — dokumentasi foto lapangan via satelit."
+  },
+  "title": "Garmin GPSMAP H1 vs H1i Plus"
+ },
+ {
+  "category": "Total Station",
+  "items": [
+   {
+    "cons": [
+     "Akurasi 5\" (cukup untuk konstruksi umum, kurang untuk presisi tinggi)",
+     "Non-Android"
+    ],
+    "name": "Topcon GM-65",
+    "price": "Rp 85.000.000",
+    "pros": [
+     "Brand Jepang teruji",
+     "Akurasi 5\" andal untuk konstruksi"
+    ]
+   },
+   {
+    "cons": [
+     "Harga lebih tinggi dari Sokkia sekelas"
+    ],
+    "name": "Topcon GM-62",
+    "price": "Rp 95.000.000",
+    "pros": [
+     "Akurasi 2\" presisi",
+     "Ekosistem Topcon luas"
+    ]
+   },
+   {
+    "cons": [
+     "Non-Android (kurva belajar untuk operator baru)"
+    ],
+    "name": "Sokkia iM-65",
+    "price": "Rp 90.000.000",
+    "pros": [
+     "Akurasi 2\"",
+     "EDM + dual-axis compensator",
+     "Reputasi Sokkia di pemetaan"
+    ]
+   }
+  ],
+  "rekomendasi": {
+   "konstruksi_umum": "Topcon GM-65 — cukup dan teruji.",
+   "pemetaan_presisi": "Sokkia iM-65 atau Topcon GM-62 (akurasi 2\")."
+  },
+  "title": "Total Station 2\"-5\": Topcon GM-65 vs GM-62 vs Sokkia iM-65"
+ },
+ {
+  "category": "Total Station",
+  "items": [
+   {
+    "cons": [
+     "Akurasi 2\" (di bawah robotic 1\")",
+     "Brand lebih baru"
+    ],
+    "name": "Gintec GTS-12A Android",
+    "price": "Rp 49.000.000",
+    "pros": [
+     "Termurah di kelas 2\"",
+     "Android 5,5 inci + SurPro",
+     "Reflectorless 1.000 m, prisma 5.000 m",
+     "Bluetooth 5.0, baterai ganda"
+    ]
+   },
+   {
+    "cons": [
+     "Butuh 2-3 operator"
+    ],
+    "name": "Alpha Y Android",
+    "price": "Rp 40.000.000",
+    "pros": [
+     "Termurah",
+     "Android 11 + SurPro 6.0",
+     "Cukup untuk topografi & stake out"
+    ]
+   },
+   {
+    "cons": [
+     "Termahal",
+     "Butuh training khusus"
+    ],
+    "name": "Alpha R1 Robotic",
+    "price": "Rp 150.000.000",
+    "pros": [
+     "Akurasi 1\"",
+     "Satu operator (auto aiming & tracking)",
+     "Untuk monitoring deformasi"
+    ]
+   }
+  ],
+  "rekomendasi": {
+   "budget_ketat": "Gintec GTS-12A — fitur 2\" + Android termurah.",
+   "satu_operator": "Alpha R1 Robotic — hemat biaya tenaga kerja jangka panjang."
+  },
+  "title": "Total Station Ekonomis vs Robotic: Gintec GTS-12A vs Alpha Y vs Alpha R1 Robotic"
+ },
+ {
+  "category": "Telepon Satelit",
+  "items": [
+   {
+    "cons": [
+     "Cakupan regional (Asia/Afrika/Eropa), bukan global penuh"
+    ],
+    "name": "Thuraya XT-PRO",
+    "price": "Rp 23.500.000",
+    "pros": [
+     "Harga paling rasional",
+     "IP55, SOS, GPS/BeiDou/GLONASS",
+     "Cakupan sangat baik di Indonesia"
+    ]
+   },
+   {
+    "cons": [
+     "Tidak untuk kutub/samudra global"
+    ],
+    "name": "Iridium 9555",
+    "price": "Rp 28.000.000",
+    "pros": [
+     "Cakupan global termasuk kutub",
+     "Desain ringkas, SMS 2-arah"
+    ]
+   },
+   {
+    "cons": [
+     "Paling mahal",
+     "Overkill jika hanya di Indonesia"
+    ],
+    "name": "Iridium Extreme 9575",
+    "price": "Rp 34.500.000",
+    "pros": [
+     "Global + MIL-STD-810F, IP65",
+     "SOS sekali tekan",
+     "SBD untuk data"
+    ]
+   }
+  ],
+  "rekomendasi": {
+   "pelayaran_global": "Iridium 9555/9575 — satu-satunya yang global penuh.",
+   "tambang_kebun_indonesia": "Thuraya XT-PRO — cukup dan ekonomis."
+  },
+  "title": "Telepon Satelit Genggam: Thuraya XT-PRO vs Iridium 9555 vs Extreme 9575"
+ }
+]

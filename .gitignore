@@ -1,0 +1,31 @@
+# Secrets & credentials — NEVER commit
+*.key
+*.pem
+.env
+.env.*
+!.env.example
+credentials*.json
+*secret*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Runtime / cache (generated on server)
+reply_cache.jsonl
+tfidf_index.pkl
+logs/
+*.log
+*.bak
+*.bak-opt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sync scratch
+prod-sync/
